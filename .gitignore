@@ -1,0 +1,15 @@
+/build/
+/dist/
+/target/
+
+*.class
+
+/nbproject/private/
+/nbbuild/
+/nbdist/
+
+*.log
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
